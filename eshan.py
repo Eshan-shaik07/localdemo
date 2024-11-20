@@ -8,3 +8,6 @@ if is_adult  <18:
 elif is_adult  >18:
     print("true")
 print(is_adult)
+print("thank you this was simple python program")
+print("thanks for having patience")
+print("AUTHOR - ESHAN AHMED")
